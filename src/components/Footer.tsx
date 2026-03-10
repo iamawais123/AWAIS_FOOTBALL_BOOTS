@@ -5,10 +5,10 @@ import { Instagram, Twitter, Youtube, Facebook } from "lucide-react";
 import Link from "next/link";
 
 const shopLinks = [
-  { name: "Football Boots", href: "/" },
-  { name: "New Arrivals", href: "/" },
-  { name: "Accessories", href: "/" },
-  { name: "Collections", href: "/" },
+  { name: "Football Boots", href: "/products" },
+  { name: "New Arrivals", href: "/products" },
+  { name: "Accessories", href: "/products" },
+  { name: "Collections", href: "/products" },
 ];
 
 const supportLinks = [

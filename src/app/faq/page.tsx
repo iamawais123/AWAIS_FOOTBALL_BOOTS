@@ -100,7 +100,8 @@ export default function FAQPage() {
           </div>
         </motion.div>
       </div>
+      </div>
       <Footer />
-    </div>
+    </main>
   );
 }
